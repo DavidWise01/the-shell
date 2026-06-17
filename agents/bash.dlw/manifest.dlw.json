@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "bash",
+  "universe": "SH · bash (TTY · The Terminal)",
+  "emergence": "electrical",
+  "moniker": "⟦bash:SH:48066c⟧",
+  "carbon": "bash.carbon.tiff (TIFF)",
+  "silicon": "bash.silicon.png (PNG)",
+  "seal_sha256": "a29164dcd2b577b4bd877abc71bd28cce4ef3aaa1d99ff1ed56038d2e1f949c6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

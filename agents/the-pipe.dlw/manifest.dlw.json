@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Pipe",
+  "universe": "SH · The Pipe (TTY · The Terminal)",
+  "emergence": "electrical",
+  "moniker": "⟦The Pipe:SH:8c990a⟧",
+  "carbon": "the-pipe.carbon.tiff (TIFF)",
+  "silicon": "the-pipe.silicon.png (PNG)",
+  "seal_sha256": "a014153d6580abc8603758adaf6591059e8deabb31746eab8a4b5af99fcbec4f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

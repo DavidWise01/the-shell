@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "the-pipe",
+    "name": "The Pipe",
+    "epithet": "| — compose the tools · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Pipe:SH:8c990a⟧"
+  },
+  {
+    "slug": "the-prompt",
+    "name": "The Prompt",
+    "epithet": "the waiting cursor · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Prompt:SH:4643d0⟧"
+  },
+  {
+    "slug": "bash",
+    "name": "bash",
+    "epithet": "the GNU descendant · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦bash:SH:48066c⟧"
+  }
+]

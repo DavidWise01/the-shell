@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Prompt",
+  "universe": "SH · The Prompt (TTY · The Terminal)",
+  "emergence": "natural",
+  "moniker": "⟦The Prompt:SH:4643d0⟧",
+  "carbon": "the-prompt.carbon.tiff (TIFF)",
+  "silicon": "the-prompt.silicon.png (PNG)",
+  "seal_sha256": "9d1c4bf7169d136dec82717bf719291db6464a03d94ab1140de118e1af30d346",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
